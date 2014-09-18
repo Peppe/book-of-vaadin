@@ -2073,7 +2073,7 @@ $v-background-color: hsl(200, 50%, 50%);
                 mixins. You can use the built-in mixins or override them. For detailed
                 documentation of the mixins and functions, please refer to the Valo API
                 documentation available at <link
-                xlink:href="http://vaadin.com/valo/api">http://vaadin.com/valo/api</link>.
+                xlink:href="http://vaadin.com/api/valo">http://vaadin.com/api/valo</link>.
             </para>
         </section>
 
